@@ -1,4 +1,9 @@
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/page_4"
+        android:enabled="true"
+        android:icon="@drawable/baseline_search"
+        />
     <item
         android:id="@+id/page_1"
         android:enabled="true"
@@ -14,5 +19,6 @@
         android:enabled="true"
         android:icon="@drawable/baseline_person"
         android:title="Meu perfil"/>
+
 
 </menu>

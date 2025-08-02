@@ -15,7 +15,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:menu="@menu/bottom_navigation_menu"
-        android:layout_marginTop="675dp"/>
+        android:layout_marginTop="675dp"
+        android:background="#FF0000"
+        />
 
 
 </LinearLayout>
