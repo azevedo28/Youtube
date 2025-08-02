@@ -2,21 +2,17 @@
     <item
         android:id="@+id/page_1"
         android:enabled="true"
-        android:icon="@drawable/ic_favorite"
-        android:title="@string/favorites"/>
+        android:icon="@drawable/baseline_home"
+        android:title="Home"/>
     <item
         android:id="@+id/page_2"
         android:enabled="true"
-        android:icon="@drawable/ic_music"
-        android:title="@string/music"/>
+        android:icon="@drawable/baseline_subscriptions"
+        android:title="Inscrições"/>
     <item
         android:id="@+id/page_3"
         android:enabled="true"
-        android:icon="@drawable/ic_places"
-        android:title="@string/places"/>
-    <item
-        android:id="@+id/page_4"
-        android:enabled="true"
-        android:icon="@drawable/ic_news"
-        android:title="@string/news"/>
+        android:icon="@drawable/baseline_person"
+        android:title="Meu perfil"/>
+
 </menu>
